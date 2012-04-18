@@ -74,17 +74,18 @@ function changeAllTextsInTimeline(timeline, changedElts, back) {
 			for(var k in elements) {
 				element = elements[k];
 				if(element.elementType == "text") {
-					//textAttr = getTextAttr(element);
-					//element.setTextAttr("face", "_sans");
 					if(back) {
 						for(var l in changedElts) {
 							if(element == changedElts[l].element) {
-								element.fontRenderingMode = changedElts[l].fontRenderingMode;
+								// element.fontRenderingMode = changedElts[l].fontRenderingMode;
+								setTextAttr(element, changedElts[l].textAttr);
 							}
 						}
 					} else {
-						changedElts.push({element: element, fontRenderingMode: element.fontRenderingMode,/*, textAttr: textAttr*/});
-						element.fontRenderingMode = "device";
+						textAttr = getTextAttr(element);
+						changedElts.push({element: element, fontRenderingMode: element.fontRenderingMode, textAttr: textAttr});
+						element.setTextAttr("face", "_sans");
+						// element.fontRenderingMode = "device";
 					}
 				}
 			}

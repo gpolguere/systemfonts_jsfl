@@ -5,23 +5,23 @@ Métadonnées
 -----------
 octets        Valeur
 ----------    ------
-       778    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/"> <xmp:CreatorTool>Adobe Flash Professional CS5.5 - build 325</xmp:CreatorTool> <xmp:CreateDate>2012-04-17T16:45:07+02:00</xmp:CreateDate> <xmp:MetadataDate>2012-04-17T19:50:43+02:00</xmp:MetadataDate> <xmp:ModifyDate>2012-04-17T19:50:43+02:00</xmp:ModifyDate> </rdf:Description> <rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/"> <dc:format>application/x-shockwave-flash</dc:format> </rdf:Description> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"> <xmpMM:InstanceID>xmp.iid:32E46B9441206811822AEFAFFEC9C2F9</xmpMM:InstanceID> <xmpMM:DocumentID>xmp.did:32E46B9441206811822AEFAFFEC9C2F9</xmpMM:DocumentID> <xmpMM:OriginalDocumentID>xmp.did:6D70E50A23206811822AEFAFFEC9C2F9</xmpMM:OriginalDocumentID> <xmpMM:DerivedFrom rdf:parseType="Resource"> <stRef:instanceID>xmp.iid:31E46B9441206811822AEFAFFEC9C2F9</stRef:instanceID> <stRef:documentID>xmp.did:6D70E50A23206811822AEFAFFEC9C2F9</stRef:documentID> <stRef:originalDocumentID>xmp.did:6D70E50A23206811822AEFAFFEC9C2F9</stRef:originalDocumentID> </xmpMM:DerivedFrom> </rdf:Description> </rdf:RDF> 
+       565    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/"> <xmp:CreatorTool>Adobe Flash Professional CS5.5 - build 325</xmp:CreatorTool> <xmp:CreateDate>2012-04-17T16:45:07+02:00</xmp:CreateDate> <xmp:MetadataDate>2012-04-18T12:01:46+02:00</xmp:MetadataDate> <xmp:ModifyDate>2012-04-18T12:01:46+02:00</xmp:ModifyDate> </rdf:Description> <rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/"> <dc:format>application/x-shockwave-flash</dc:format> </rdf:Description> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"> <xmpMM:InstanceID>xmp.iid:FD7F117407206811822A9E945F88E10F</xmpMM:InstanceID> <xmpMM:DocumentID>xmp.did:FD7F117407206811822A9E945F88E10F</xmpMM:DocumentID> <xmpMM:OriginalDocumentID>xmp.did:6D70E50A23206811822AEFAFFEC9C2F9</xmpMM:OriginalDocumentID> <xmpMM:DerivedFrom rdf:parseType="Resource"> <stRef:instanceID>xmp.iid:FC7F117407206811822A9E945F88E10F</stRef:instanceID> <stRef:documentID>xmp.did:6D70E50A23206811822AEFAFFEC9C2F9</stRef:documentID> <stRef:originalDocumentID>xmp.did:6D70E50A23206811822AEFAFFEC9C2F9</stRef:originalDocumentID> </xmpMM:DerivedFrom> </rdf:Description> </rdf:RDF> 
 
 Image #    Octets de l'image    Octets totaux    Séquence
 -------    -----------------    -------------    --------
-      1                 1502             1502    Séquence 1 (Image d'exportation des classes AS 3.0)
+      1                  753              753    Séquence 1 (Image d'exportation des classes AS 3.0)
 
 Séquence      Octets de la forme    Octets du texte    Octets ActionScript
 ----------    ------------------    ---------------    -------------------
-Séquence 1                     0                107                      0
+Séquence 1                     0                 65                      0
 
 Symbole      Octets de la forme    Octets du texte    Octets ActionScript
 ---------    ------------------    ---------------    -------------------
-Symbole 1                     0                107                      0
+Symbole 1                     0                 65                      0
 
-Nom de la police        octets        Caractères
---------------------    ----------    ----------
-ChaletBook-Bold Gras           447    est
+Nom de la police    octets        Caractères
+----------------    ----------    ----------
+_sans                       12    
 
 
 
