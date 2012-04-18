@@ -29,6 +29,8 @@ for(var h in libraryItems) {
 
 dom.publish();
 
+fl.revertDocument(dom);
+/*
 // set elements edited as before
 changeAllTextsInTimeline(dom.getTimeline(), changedElements, true);
 
@@ -40,7 +42,7 @@ for(var h in libraryItems) {
 		dom.exitEditMode();
 	}
 }
-
+*/
 fl.trace("DOCUMENT PUBLISHED WITHOUT FONTS");
 
 function getTextAttr(elt) {
